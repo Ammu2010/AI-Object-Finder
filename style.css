@@ -1,0 +1,51 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body {
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    background-color: dodgerblue;
+    color: rgb(149, 216, 207);
+    border : 3px dashed rgb(219, 32, 219);
+    border-radius: 15px;
+    width: fit-content;
+    padding: 15px;
+}
+canvas {
+    background-color: violet;
+}
+label {
+    font-size: large;
+    color: rgb(0, 136, 255);
+    background-color: aliceblue;
+    border: 2px dashed pink;
+    padding: 5px;
+    border-radius: 10px;
+}
+input {
+    font-size: large;
+    color: rgb(0, 136, 255);
+    background-color: aliceblue;
+    border: 2px dashed pink;
+    padding: 5px;
+    border-radius: 10px;
+}
+button {
+    font-size: large;
+    color: rgb(0, 136, 255);
+    background-color: aliceblue;
+    border: 2px dashed pink;
+    padding: 5px;
+    border-radius: 10px;
+}
